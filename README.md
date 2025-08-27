@@ -52,5 +52,9 @@ src/
  Dark/Light mode
  Autor
 
-Desenvolvido por Gilvane Alves Dias
+## 📫 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilvane-alves-dias/)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551999709417)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gilwanealwes@gmail.com)
 
